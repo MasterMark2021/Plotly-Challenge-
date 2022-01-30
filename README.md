@@ -10,7 +10,7 @@ The dashboard should be able to identify the top 10 bacterial species in the bel
 **Resources**
 Data Sources: BellyButton_bar_chart_starter_code.js, BellyButton_bubble_chart_starter_code.js, BellyButton_bubble_chart_starter_code.js
 
-**Code Files:** charts.js, index.html, style.css, 
+**Code Files:** charts.js, index.html, style.css. Please do refer to the Static/js for the charts.js and Static/css for the style.css.
 
 Software: Visual Studio Code, ES6, D3, Javascript, HTML, CSS.
 
